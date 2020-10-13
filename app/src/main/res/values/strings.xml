@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">conversorTemperaruta</string>
+    <string name="edt_centigrados">inserta los grados Centigrados</string>
+    <string name="btn_text_convertir">Convertir</string>
+    <string name="txt_kelvin">Grados kelvin</string>
+    <string name="txt_hint_farenheit">Grados Farenheint</string>
+    <string name="textViewKelvin">kelvin</string>
+    <string name="textViewFanrenheit">Farenheit</string>
+</resources>
